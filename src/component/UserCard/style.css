@@ -1,0 +1,29 @@
+.user-card{
+    background-color: #f1f1f1;
+    border: 1px solid grey;
+    border-radius: 15px;
+    padding: 30px;
+    width: 300px;
+    margin: 15px;
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
+    box-shadow: 0 4px 8px #f1f1f1;
+}
+
+.user-name{
+    font-size: larger;
+    font-weight: bold;
+    margin: 10px;
+    color: crimson;
+}
+.user-phone{
+    font-size: large;
+    font-weight:600;
+    margin: 10px;
+}
+.user-company{
+    font-size: large;
+    font-weight: 600;
+    margin: 10px;
+}
